@@ -1,0 +1,37 @@
+form label {
+  float: left;
+  width: 150px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+.clear {
+  display: block;
+  clear: both;
+  width: 100%;
+}
+
+.login100-form-avatar {
+  display: block;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: 0 auto;
+}
+.login100-form-title {
+  display: block;
+  font-family: Poppins-Bold;
+  font-size: 39px;
+  color: #333333;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.login100-form-titlee {
+  display: block;
+  font-family: Poppins-Bold;
+  font-size: 20px;
+  color: #333333;
+  line-height: 1.2;
+  text-align: center;
+}
